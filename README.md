@@ -35,13 +35,13 @@ citations-year-title.pdf
 
 ### Links
 - [Sharif university "Machine learning" course](http://ocw.sharif.edu/course/id/202/%D9%85%D9%87%D8%AF%DB%8C%D9%87-%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C-/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86.html)
-- [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [Yazd university master forms](https://yazd.ac.ir/offices/educational/deputy/graduate/home/forms/master)
 - [Official and legal Iranian theses download](https://ganj.irandoc.ac.ir/#/)
+- [Yazd university master forms](https://yazd.ac.ir/offices/educational/deputy/graduate/home/forms/master)
 - [Tehran university theses of computer engineering](https://ut.ac.ir/fa/thesis?ThesisSearch%5BmajorName%5D=%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1+-%D9%86%D8%B1%D9%85+%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)
 - [Tehran university theses legal download](http://utdlib.ut.ac.ir/Search/SimpleSearch)
 - [Sharif university theses](http://library.sharif.ir/parvan/searchStandard.do?action=simple)
 - [Software engineering journals and conferences](https://www.scimagojr.com/journalrank.php?area=1700&category=1712)
+- [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 - Free paper download:
    + <sub><a href="https://sci-hub.tw/">Sci-Hub</a></sub>
    + <sub><a href="https://freepaper.me/">Free paper</a>
