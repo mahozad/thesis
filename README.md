@@ -20,3 +20,32 @@ citations-year-title.pdf
 - استخراج تگ یا ژانر موزیک از روی آنالیز اسپکتروم آن
 - استخراج تگ یا ژانر موزیک با آنالیز نت، ریتم، ملودی و غیره
 - استخراج تگ یا ژانر موزیک با استفاده از روش‌های یادگیری ماشین
+
+
+
+### Links
+
+درس یادگیری ماشین دانشگاه صنعتی شریف:
+http://ocw.sharif.edu/course/id/202/%D9%85%D9%87%D8%AF%DB%8C%D9%87-%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C-/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86.html
+
+مشاهده فیلم نمونه دفاع از پایان نامه مثلا در دانشگاه تهران یا غیره
+https://www.youtube.com/watch?v=Unzc731iCUY
+
+فرم‌های کارشناسی ارشد دانشگاه یزد:
+https://yazd.ac.ir/offices/educational/deputy/graduate/home/forms/master
+
+دانلود قانونی و رسمی پایان‌نامه‌‌های کشور:
+https://ganj.irandoc.ac.ir/#/
+
+پایان‌نامه‌های مهندسی کامپیوتر/نرم‌افزار دانشگاه تهران:
+https://ut.ac.ir/fa/thesis?ThesisSearch%5BmajorName%5D=%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1+-%D9%86%D8%B1%D9%85+%D8%A7%D9%81%D8%B2%D8%A7%D8%B1
+دانلود قانونی پایان‌نامه‌های داشنگاه تهران:
+http://utdlib.ut.ac.ir/Search/SimpleSearch
+
+پایان‌نامه‌های دانشگاه شریف:
+http://library.sharif.ir/parvan/searchStandard.do?action=simple
+
+ژورنال‌ها و کنفرانس‌های معتبر مهندسی نرم‌افزار:
+https://www.scimagojr.com/journalrank.php?area=1700&category=1712
+
+دانلود رایگان مقالات: (https://freepaper.me/)[۱] و (https://sci-hub.tw/)[۲]
