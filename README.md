@@ -47,5 +47,5 @@ citations-year-title.pdf
     + [Google Scholar](https://scholar.google.com/)
     + [ResearchGate](https://www.researchgate.net/)
     + [dblp](https://dblp.org/) bibliographic database
-    + <sub><a href="https://sci-hub.st/">Sci-Hub</a></sub>
-    + <sub><a href="https://freepaper.me/">FreePaper</a>
+    + <sup><sub><a href="https://sci-hub.st/">Sci-Hub</a></sub></sup>
+    + <sup><sub><a href="https://freepaper.me/">FreePaper</a></sub></sup>
