@@ -43,6 +43,9 @@ citations-year-title.pdf
 - [Sharif university theses](http://library.sharif.ir/parvan/searchStandard.do?action=simple)
 - [Software engineering journals and conferences](https://www.scimagojr.com/journalrank.php?area=1700&category=1712)
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-- Free paper download:
-   + <sub><a href="https://sci-hub.tw/">Sci-Hub</a></sub>
-   + <sub><a href="https://freepaper.me/">Free paper</a>
+- Search and download papers:
+    + [Google Scholar](https://scholar.google.com/)
+    + [ResearchGate](https://www.researchgate.net/)
+    + [dblp](https://dblp.org/) bibliographic database
+    + <sub><a href="https://sci-hub.st/">Sci-Hub</a></sub>
+    + <sub><a href="https://freepaper.me/">FreePaper</a>
