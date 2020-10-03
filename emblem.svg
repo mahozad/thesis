@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <path d="m3 18c2.9603 2.3875 5.1085 3.3967 9 0s7-2 9 0" fill="none" stroke="#ca0" stroke-linejoin="round" stroke-width="1.5"/>
-  <g transform="matrix(-1,0,0,1,37.584,1.0812)" fill="none" stroke="#a2af29" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
-    <path d="m23.584 1.9188-2 2 7 8 2-2z"/>
-    <path d="m30.584 9.9188 1.4208 3.8842-3.4208-1.8842z"/>
-  </g>
+  <path d="m3 18 c2 2 5 4 9 0 s7 -2 9 0" fill="none" stroke="#ca0" stroke-width="1.5"/>
+  <path d="m5 15 4 -2 7 -7 -2 -2 -7 7 z" fill="none" stroke="#bb3" stroke-width="1.5" stroke-linejoin="round"/>
 </svg>
